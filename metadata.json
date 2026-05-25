@@ -1,0 +1,6 @@
+{
+  "name": "SomaMarket - Ecommerce AI Store",
+  "description": "A visually polished, responsive bilingual (Somali-English) e-commerce marketplace styled after Amazon and Trendyol, featuring high-fidelity bento product grid, sliders, detailed quick-view, custom sliding cart, mobile money checkout simulator, and an AI-powered Personal Shopper Concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
